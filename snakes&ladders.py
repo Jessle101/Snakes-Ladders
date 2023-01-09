@@ -35,7 +35,7 @@ s3 = random.randint(51, 54)
 s4 = random.randint(61, 63)
 s5 = random.choice([69, 70, 71, 87])
 s6 = random.randint(72, 74)
-s7 = random.choice(79, 81)
+s7 = random.randint(79, 81)
 s8 = random.randint(91, 93)
 s9 = random.randint(98, 99)
 if s9 == 98:
